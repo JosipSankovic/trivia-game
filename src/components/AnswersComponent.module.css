@@ -1,0 +1,11 @@
+.answer{
+    background-color: whitesmoke;
+    padding: 10px;
+    margin:10px;
+    border-radius: 10px;
+}
+
+.answer:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
